@@ -24,7 +24,7 @@ I have done this whole Project in Visual Studio code. if you don't have Visual S
 
 ## About the author
 
-[LinkedIn - Nikhil Mahajan](https://www.linkedin.com/in/nikhil-mahajan-92b9631a0/ "Nikhil Mahajan's LinkedIn profile")\
+[LinkedIn - Nikhil Mahajan](https://www.linkedin.com/in/nikhil-mahajan-92b9631a0/ "Nikhil Mahajan's LinkedIn profile")
 
 [Web - Nikhil Mahaan](https://nikhilmahajan.netlify.app/ "Nikhil Mahajan Portfolio")
 
