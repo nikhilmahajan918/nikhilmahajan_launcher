@@ -1,8 +1,8 @@
-# Socila Links Extension
+# Social Links Extension
 
-# Chrome Extesnion as a personal launcher
+# Chrome Extension as a personal launcher
 
-This is a kind of launcher application extension used for adding all your social links at one place.
+This is a kind of launcher application extension that used for adding all your social links at one place.
 Get access of all your social media handles isn't a good idea.
 If yes, checkout the code and make your own.
 or if you want me to do this for you, I'll be happy for doing this at just $2
